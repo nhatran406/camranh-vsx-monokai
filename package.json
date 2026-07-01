@@ -3,7 +3,7 @@
   "displayName": "CamRanh Monokai",
   "description": "CamRanh Monokai theme for VS Code, preserving the original palette and font pairing.",
   "version": "1.0.0",
-  "publisher": "camranh",
+  "publisher": "nhatran406",
   "engines": {
     "vscode": "^1.5.0"
   },
@@ -13,8 +13,9 @@
   "keywords": [
     "theme",
     "monokai",
-    "camranh",
-    "dark"
+    "nhatran406",
+    "dark",
+    "camranh"
   ],
   "contributes": {
     "themes": [
