@@ -1,0 +1,29 @@
+{
+  "name": "camranh-vsx-monokai",
+  "displayName": "CamRanh Monokai",
+  "description": "CamRanh Monokai theme for VS Code, preserving the original palette and font pairing.",
+  "version": "1.0.0",
+  "publisher": "camranh",
+  "engines": {
+    "vscode": "^1.5.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "monokai",
+    "camranh",
+    "dark"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "CamRanh Monokai",
+        "uiTheme": "vs-dark",
+        "path": "./themes/CamRanh-Monokai.json"
+      }
+    ]
+  },
+  "icon": "icon.png"
+}
